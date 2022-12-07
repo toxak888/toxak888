@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toxak888
+- 👋 Hi, I’m Anton
 - 👀 I’m interested in sports, games and of course everything that can make my IT knowledge better.
 - 🌱 I'm have knowledge and learning JS , Angelar JS, Node JS , WordPress , SQL , I want to learn Python in the future
 - 💞️ I am looking for an opportunity to cooperate with companies that are recruiting for a position
